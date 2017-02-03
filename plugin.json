@@ -1,0 +1,8 @@
+{
+  "name": "vaola2",
+  "description": null,
+  "namespace": "vaola2",
+  "author": "Jonas",
+  "type": "export",
+  "serviceProvider": "lenando\\lenandoServiceProvider"
+}
